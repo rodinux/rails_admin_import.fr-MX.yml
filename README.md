@@ -1,7 +1,7 @@
 
  * A french translation for stephskardal/rails_admin_import (https://github.com/stephskardal/rails_admin_import)
  
-I put all my locales I use on my project with Rails. 
+I put all my locales I use on my calendar project https://github.com/rodinux/plannings_ecranvillage with Rails. 
 The major problem was with the format of the date and of the hours with the code of rails_admin as the datepicker have a bug to translate the hours.
 See this issue to understand :https://github.com/sferik/rails_admin/issues/982
 
